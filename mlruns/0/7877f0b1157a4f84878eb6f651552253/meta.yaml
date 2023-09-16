@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kenijkaminogo/Desktop/python/python/71_kaggle/07_Miyawaki/code/mlruns/0/7877f0b1157a4f84878eb6f651552253/artifacts
+end_time: 1694770000017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7877f0b1157a4f84878eb6f651552253
+run_name: clumsy-cub-305
+run_uuid: 7877f0b1157a4f84878eb6f651552253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694770000009
+status: 3
+tags: []
+user_id: kenijkaminogo
