@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kenijkaminogo/Desktop/python/python/71_kaggle/07_Miyawaki/code/mlruns/0/9b90609384f44c15a960844abb1a42a3/artifacts
+end_time: 1694907811302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b90609384f44c15a960844abb1a42a3
+run_name: classy-lynx-635
+run_uuid: 9b90609384f44c15a960844abb1a42a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694907811280
+status: 3
+tags: []
+user_id: kenijkaminogo

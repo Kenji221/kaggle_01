@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kenijkaminogo/Desktop/python/python/71_kaggle/07_Miyawaki/code/mlruns/0/0d6ee269255a44f5896b16a87efb3459/artifacts
+end_time: 1694833100856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d6ee269255a44f5896b16a87efb3459
+run_name: dashing-hen-820
+run_uuid: 0d6ee269255a44f5896b16a87efb3459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694833100844
+status: 3
+tags: []
+user_id: kenijkaminogo
