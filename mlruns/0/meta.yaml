@@ -1,6 +1,6 @@
-artifact_location: file:///Users/kenijkaminogo/Desktop/python/python/71_kaggle/07_Miyawaki/code/mlruns/0
-creation_time: 1694769999562
+artifact_location: mlflow-artifacts:/0
+creation_time: 1695130498580
 experiment_id: '0'
-last_update_time: 1694769999562
+last_update_time: 1695130498580
 lifecycle_stage: active
 name: Default
